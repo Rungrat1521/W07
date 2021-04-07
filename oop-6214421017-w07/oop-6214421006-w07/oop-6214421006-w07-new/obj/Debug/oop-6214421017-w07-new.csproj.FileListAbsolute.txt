@@ -1,0 +1,10 @@
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\bin\Debug\oop-6214421006-w07-new.exe.config
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\bin\Debug\oop-6214421006-w07-new.exe
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\bin\Debug\oop-6214421006-w07-new.pdb
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\obj\Debug\oop_6214421006_w07_new.Name.resources
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\obj\Debug\oop_6214421006_w07_new.Properties.Resources.resources
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\obj\Debug\oop-6214421006-w07-new.csproj.GenerateResource.cache
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\obj\Debug\oop-6214421006-w07-new.csproj.CoreCompileInputs.cache
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\obj\Debug\oop-6214421006-w07-new.exe
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\obj\Debug\oop-6214421006-w07-new.pdb
+C:\Users\DanG\source\repos\oop-6214421006-w07-new\oop-6214421006-w07-new\obj\Debug\oop-6214421006-w07-new.csprojAssemblyReference.cache
